@@ -5,3 +5,6 @@ msg = "hello world"
 print (msg.count("l"))
 
 print ("nothing")
+
+#adding comment
+# new version
